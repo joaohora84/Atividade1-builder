@@ -19,11 +19,6 @@ public class Principal {
     
     private static LocalDate data = LocalDate.now();
     
-    
-        
-        
-    
-    
     public static void main(String[] args) {
         
         Vendedor vendedor = new VendedorBuilder()
